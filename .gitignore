@@ -1,0 +1,3 @@
+# Ignore all .tar files in the repository
+# These are heavy data files.
+*.tar
