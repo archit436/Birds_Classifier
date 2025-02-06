@@ -1,3 +1,2 @@
-# Ignore all .tar files in the repository
-# These are heavy data files.
-*.tar
+# Ignore everything stored in the Data folder.
+Data/*
