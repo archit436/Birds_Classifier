@@ -1,2 +1,4 @@
 # Ignore everything stored in the Data folder.
 Data/*
+# Also ignore the label_mappings.pkl file.
+Models/Main_Models/label_mappings.pkl
