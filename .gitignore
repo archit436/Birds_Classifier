@@ -2,3 +2,5 @@
 Data/*
 # Also ignore the label_mappings.pkl file.
 Models/Main_Models/label_mappings.pkl
+# Ignore the model weights.
+Models/Main_Models/Models/*
